@@ -59,16 +59,16 @@ Electronics and Communication Engineering graduate (2026) with hands-on experien
 | Project | Description |
 |---|---|
 | **Light Wave Laser Mesh Network for Disaster Communication** *(in development)* | Laser-based communication system for emergency disaster communication without internet infrastructure, with a mesh network architecture for reliable long-distance communication. |
-| **Underground Cable Fault Detection System** | Arduino-based, sensor-driven system that identifies and monitors underground cable faults. |
+| **Underground Cable Fault Detection System – Arduino** | Arduino-based, sensor-driven system that identifies and monitors underground cable faults. |
 | **ESP32-CAM Object Detection** | Object detection and real-time monitoring using ESP32-CAM and embedded image processing concepts. |
-| **Sensor Monitoring System** | Real-time environmental sensor monitoring with data acquisition. |
 
-## C Programming Projects
+## C and Linux Programming Projects
 
 | Project | Description |
 |---|---|
 | **Image Steganography in C** | LSB encoding to embed and extract hidden messages in BMP image files. |
 | **Address Book Application in C** | Console-based contact management with add, search, edit and delete. |
+| **Linux MiniShell in C** | Personal Linux system programming project: a mini command-line shell written in C. |
 
 ---
 
