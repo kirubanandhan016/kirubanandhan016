@@ -4,8 +4,6 @@
 
 **Embedded Systems | Firmware Development | Hardware Debugging**
 
-B.E. Electronics and Communication Engineering (2026)
-
 [![Email](https://img.shields.io/badge/Email-kirubanandhan016@gmail.com-1F3A5F?style=flat-square)](mailto:kirubanandhan016@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kirubanandhan016-1F3A5F?style=flat-square)](https://github.com/kirubanandhan016)
 
@@ -13,9 +11,9 @@ B.E. Electronics and Communication Engineering (2026)
 
 ---
 
-## About
+## About Me
 
-Electronics and Communication Engineering graduate (2026) with hands-on experience in Embedded C, Arduino, ESP32, sensor interfacing and hardware debugging. Completed a 6-month Embedded Systems Internship at Emertxe Information Technologies, with exposure to firmware concepts, peripheral interfacing and embedded application debugging.
+B.E. Electronics and Communication Engineering graduate (2026) with hands-on experience in Embedded C, Arduino, ESP32, sensor interfacing and hardware debugging. Completed a 6-month Embedded Systems training/internship at Emertxe Information Technologies and a 1-month apprenticeship at TVS Training & Services.
 
 **Seeking:** entry-level and internship roles in Embedded Systems, Firmware, Embedded Software and IoT.
 
@@ -54,6 +52,19 @@ Electronics and Communication Engineering graduate (2026) with hands-on experien
 
 ---
 
+## Training & Experience
+
+**Emertxe Information Technologies** | 6-month Embedded Systems Training / Internship
+- Embedded C programming
+- Microcontroller concepts
+- Peripheral interfacing
+- Hardware debugging
+- Embedded application debugging
+
+**TVS Training & Services** | Chennai | 1-month Apprenticeship (Industry 4.0)
+
+---
+
 ## Embedded Projects
 
 | Project | Description |
@@ -62,29 +73,19 @@ Electronics and Communication Engineering graduate (2026) with hands-on experien
 | **Underground Cable Fault Detection System – Arduino** | Arduino-based, sensor-driven system that identifies and monitors underground cable faults. |
 | **ESP32-CAM Object Detection** | Object detection and real-time monitoring using ESP32-CAM and embedded image processing concepts. |
 
-## C and Linux Programming Projects
+## C / Systems Programming Projects
 
 | Project | Description |
 |---|---|
 | **Image Steganography in C** | LSB encoding to embed and extract hidden messages in BMP image files. |
-| **Address Book Application in C** | Console-based contact management with add, search, edit and delete. |
+| **Address Book in C** | Console-based contact management with add, search, edit and delete. |
 | **Linux MiniShell in C** | Personal Linux system programming project: a mini command-line shell written in C. |
 
 ---
 
-## Experience
+## Current Focus
 
-**Embedded Systems Intern** | Emertxe Information Technologies | 6 months
-- Embedded C programming and microcontroller concepts
-- Peripheral interfacing and hardware debugging
-- Embedded development workflows and application debugging
-
----
-
-## Education
-
-**B.E. Electronics and Communication Engineering** | 2022 to 2026
-IFET College of Engineering, Anna University | CGPA 7.33/10
+Embedded Systems, Firmware Development, Hardware Debugging, Communication Systems
 
 ---
 
