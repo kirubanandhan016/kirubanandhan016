@@ -1,95 +1,186 @@
-<div align="center">
-
 # Kirubanandhan V
 
-**Embedded Systems | Firmware Development | Hardware Debugging**
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kirubanandhan016@gmail.com-1F3A5F?style=flat-square)](mailto:kirubanandhan016@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kirubanandhan016-1F3A5F?style=flat-square)](https://github.com/kirubanandhan016)
+### Python Backend Developer | FastAPI | SQL | C | C++ | Linux
+
+**Building backend applications, REST APIs, and reliable software solutions.**
+
+<p>
+  <a href="mailto:kirubanandhan016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+918675118864">
+    <img src="https://img.shields.io/badge/Phone-8675118864-0D1117?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone">
+  </a>
+  <a href="https://github.com/kirubanandhan016">
+    <img src="https://img.shields.io/badge/GitHub-kirubanandhan016-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-B.E. Electronics and Communication Engineering graduate (2026) with hands-on experience in Embedded C, Arduino, ESP32, sensor interfacing and hardware debugging. Completed a 6-month Embedded Systems training/internship at Emertxe Information Technologies and a 1-month apprenticeship at TVS Training & Services.
+I'm a **2026 Electronics and Communication Engineering graduate** focused on building a career in Python Backend Development.
 
-**Seeking:** entry-level and internship roles in Embedded Systems, Firmware, Embedded Software and IoT.
+I'm developing my programming and software engineering skills through hands-on projects, problem-solving, and practical implementation.
 
----
+- 🐍 Learning Python for backend application development
+- ⚡ Exploring FastAPI and REST API development
+- 🗄️ Building knowledge of SQL and relational databases
+- 💻 Practicing C and C++ programming
+- 🐧 Learning Linux commands and system programming
+- 🔧 Experienced in embedded systems training and microcontroller fundamentals
+- 🚀 Focused on building practical projects for entry-level software roles
 
-## Technical Skills
-
-**Programming**
-![C](https://img.shields.io/badge/C-1F3A5F?style=flat-square)
-![Embedded C](https://img.shields.io/badge/Embedded_C-1F3A5F?style=flat-square)
-![C++](https://img.shields.io/badge/C++-1F3A5F?style=flat-square)
-
-**Operating System**
-![Linux](https://img.shields.io/badge/Linux-1F3A5F?style=flat-square)
-
-**Microcontrollers**
-![Arduino](https://img.shields.io/badge/Arduino-1F3A5F?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-1F3A5F?style=flat-square)
-![ESP8266](https://img.shields.io/badge/ESP8266-1F3A5F?style=flat-square)
-
-**Communication Protocols**
-![UART](https://img.shields.io/badge/UART-1F3A5F?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-1F3A5F?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-1F3A5F?style=flat-square)
-
-**Embedded Concepts**
-![GPIO](https://img.shields.io/badge/GPIO-1F3A5F?style=flat-square)
-![ADC](https://img.shields.io/badge/ADC-1F3A5F?style=flat-square)
-![Timers](https://img.shields.io/badge/Timers-1F3A5F?style=flat-square)
-![Interrupts](https://img.shields.io/badge/Interrupts-1F3A5F?style=flat-square)
-
-**Core**
-![Hardware Debugging](https://img.shields.io/badge/Hardware_Debugging-1F3A5F?style=flat-square)
-![Sensor Interfacing](https://img.shields.io/badge/Sensor_Interfacing-1F3A5F?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1F3A5F?style=flat-square)
+**Career interests:** Junior Python Developer, Python Backend Developer, Backend Developer Intern, and Software Engineer.
 
 ---
 
-## Training & Experience
+## 🛠️ Technical Skills
 
-**Emertxe Information Technologies** | 6-month Embedded Systems Training / Internship
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+### ⚡ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/REST_API-20232A?style=for-the-badge" alt="REST API">
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+### 🐧 Operating Systems and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
+
+---
+
+## 🎓 Training & Experience
+
+### Emertxe Information Technologies
+**Embedded Systems Training / Internship — 6 Months**
+
 - Embedded C programming
-- Microcontroller concepts
+- Microcontroller fundamentals
 - Peripheral interfacing
 - Hardware debugging
-- Embedded application debugging
+- Embedded application development
 
-**TVS Training & Services** | Chennai | 1-month Apprenticeship (Industry 4.0)
+### TVS Training & Services
+**Industry 4.0 Apprenticeship — 1 Month | Chennai**
+
+- Industry 4.0 fundamentals
+- Exposure to industrial technology and automation concepts
 
 ---
 
-## Embedded Projects
+## 🚀 Featured Projects
+
+### 🐍 Python Development
 
 | Project | Description |
 |---|---|
-| **Light Wave Laser Mesh Network for Disaster Communication** *(in development)* | Laser-based communication system for emergency disaster communication without internet infrastructure, with a mesh network architecture for reliable long-distance communication. |
-| **Underground Cable Fault Detection System – Arduino** | Arduino-based, sensor-driven system that identifies and monitors underground cable faults. |
-| **ESP32-CAM Object Detection** | Object detection and real-time monitoring using ESP32-CAM and embedded image processing concepts. |
+| **Student Management System** | A menu-driven Python application for adding, viewing, searching, updating, and deleting student records. Includes average marks calculation and highest-scorer identification. |
+| **Student Management REST API** *(Planned)* | Extend the student management application with FastAPI, SQL database integration, and CRUD endpoints. |
 
-## C / Systems Programming Projects
+### 💻 C & Linux Systems Programming
 
 | Project | Description |
 |---|---|
-| **Image Steganography in C** | LSB encoding to embed and extract hidden messages in BMP image files. |
-| **Address Book in C** | Console-based contact management with add, search, edit and delete. |
-| **Linux MiniShell in C** | Personal Linux system programming project: a mini command-line shell written in C. |
+| **Address Book in C** | A console-based contact management application supporting add, search, edit, delete, and file handling. |
+| **Linux MiniShell in C** | A command-line shell exploring process creation, command execution, signals, pipes, and Linux system calls. |
+
+### 🔌 Embedded Systems & IoT
+
+| Project | Description |
+|---|---|
+| **Underground Cable Fault Detection** | An Arduino/NodeMCU-based project for detecting and monitoring underground cable faults. |
+| **ESP32-CAM Object Detection** | An embedded vision project exploring object detection and real-time monitoring using ESP32-CAM. |
+| **LightWeave — Laser Mesh Network** | A disaster communication network simulation exploring mesh connectivity and resilient routing. *In development.* |
 
 ---
 
-## Current Focus
+## 📚 Current Learning Roadmap
 
-Embedded Systems, Firmware Development, Hardware Debugging, Communication Systems
+- [ ] Strengthen Python fundamentals and advanced concepts
+- [ ] Master functions, modules, and object-oriented programming
+- [ ] Practice data structures and algorithms
+- [ ] Learn exception handling and file operations
+- [ ] Master SQL queries, joins, and database design
+- [ ] Build REST APIs using FastAPI
+- [ ] Learn request validation and dependency injection
+- [ ] Integrate databases using SQLAlchemy
+- [ ] Implement CRUD operations and API testing
+- [ ] Learn authentication and authorization
+- [ ] Practice Linux commands and system programming
+- [ ] Learn Git workflows, pytest, and Docker fundamentals
 
 ---
 
-## Contact
+## 🎯 Career Objective
 
-- Email: kirubanandhan016@gmail.com
-- Phone: +91 86751 18864
+To become a **Python Backend Developer** by developing reliable REST APIs, writing clean and maintainable code, working with relational databases, and strengthening software engineering fundamentals.
+
+I believe in learning by building projects, debugging real problems, and continuously improving my technical skills.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/kirubanandhan016">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirubanandhan016&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics">
+</a>
+
+<a href="https://github.com/kirubanandhan016">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubanandhan016&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages">
+</a>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+**Kirubanandhan V**
+
+📧 **Email:** [kirubanandhan016@gmail.com](mailto:kirubanandhan016@gmail.com)
+
+📱 **Phone:** [+91 86751 18864](tel:+918675118864)
+
+🐙 **GitHub:** [github.com/kirubanandhan016](https://github.com/kirubanandhan016)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build • Learn • Code • Improve
+
+*Thanks for visiting my GitHub profile!*
+
+</div>
