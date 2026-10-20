@@ -2,7 +2,6 @@
   KIRUBANANDHAN V | GitHub Profile README
   Theme: Dark Minimalist | Python Backend Developer
 -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c16,50:172554,100:166534&height=230&section=header&text=KIRUBANANDHAN%20V&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER&descSize=17&descAlignY=58&descColor=86efac" width="100%" alt="Kirubanandhan V — Python Backend Developer" />
