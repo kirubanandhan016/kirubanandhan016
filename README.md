@@ -1,151 +1,267 @@
-# Hi there, I'm Kirubanandhan V 👋
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubanandhan-v)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirubanandhan016@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirubanandhan016)
-
-</div>
-
-## 🚀 About Me
-
-Electronics and Communication Engineering graduate with hands-on expertise in **Embedded Systems**, **Embedded C**, and **Linux System Programming**. Currently undergoing intensive training at **Emertxe Information Technologies**, focusing on embedded product development and firmware engineering.
-
-```
-💼 Embedded Systems Trainee @ Emertxe Information Technologies, Bengaluru
-🎓 B.E. in ECE | Anna University | CGPA: 7.98/10
-🌍 Based in Bengaluru, India
-🔭 Specializing in Firmware Development & Real-Time Systems
-💡 Passionate about IoT, TinyML & Embedded Linux
-```
-
----
-
-## 💻 Technical Arsenal
-
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### **Embedded Systems & IoT**
-- **Microcontrollers:** ESP32-CAM, Arduino
-- **Communication Protocols:** UART, SPI, I2C, RS-485, Modbus
-- **Expertise:** Firmware Development, Device Drivers, Real-Time Systems
-- **Hardware Programming:** Registers, Interrupts, Timers, ADC/DAC
-
-### **Linux & System Programming**
-- **Skills:** Process Management (fork, exec), Inter-Process Communication (IPC)
-- **File Systems:** File I/O, Binary File Handling
-- **Tools:** GCC, GDB, Makefiles, Bash Scripting
-
-### **Development Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Simulation & ML:** NS-3, NetAnim, Edge Impulse, TinyML  
-**Core Skills:** Data Structures, Algorithms, Pointers, Dynamic Memory Management, Bitwise Operations, Modular Programming
-
----
-
-## 🛠️ Featured Projects
-
-### 🌐 LaserMesh Network for Disaster Communication
-**Simulation-based mesh network for emergency connectivity**
-- Designed self-healing laser-based mesh using **NS-3** for disaster scenarios
-- Implemented dynamic routing algorithms for network resilience
-- Performance analysis: throughput, packet delivery ratio, end-to-end delay
-- **Tech:** NS-3, C++, Linux, NetAnim
-
-### 📷 ESP32-CAM Object Detection with TinyML
-**Real-time edge AI for embedded vision**
-- Trained and deployed ML model on **ESP32-CAM** using **Edge Impulse**
-- Achieved on-device inference with optimized embedded firmware
-- Integrated camera module with low-power TinyML pipeline
-- **Tech:** ESP32-CAM, Embedded C, Arduino IDE, Edge Impulse, TinyML
-
-### 🖼️ Image Steganography - LSB Encoding
-**Secure message hiding in BMP images**
-- Developed Linux application for LSB-based steganography
-- Implemented encoding/decoding with **bitwise operations**
-- Used advanced C concepts: pointers, structures, binary file handling
-- **Tech:** Advanced C, Linux, File I/O, Makefiles
-
-### 🧮 Arbitrary Precision Calculator (APC)
-**Unlimited-size integer arithmetic system**
-- Built calculator supporting operations on arbitrarily large numbers
-- Implemented using **doubly linked lists** and dynamic memory
-- Applied modular programming and efficient algorithm design
-- **Tech:** Advanced C, Data Structures, GCC, Makefiles
-
----
-
-## 📊 GitHub Activity
+ <!--
+  KIRUBANANDHAN V | GitHub Profile README
+  Python Backend Developer | Dark Minimalist Theme
+-->
 
 <div align="center">
 
-![Kirubanandhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirubanandhan016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:166534&height=220&section=header&text=KIRUBANANDHAN%20V&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=PYTHON%20BACKEND%20DEVELOPER&descSize=17&descAlignY=57&descColor=86efac" width="100%" alt="Kirubanandhan V | Python Backend Developer" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirubanandhan016&theme=tokyonight&hide_border=true)
+### Building practical solutions with Python, SQL & REST APIs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirubanandhan016&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <a href="https://www.linkedin.com/in/kirubanandhan-v-98bb83443/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kirubanandhan016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/kirubanandhan016">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+**Open to entry-level Python Developer and Backend Developer opportunities**
+
+*Learn consistently. Build practically. Improve every day.*
 
 </div>
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-**B.E. in Electronics and Communication Engineering**  
-🏛️ Anna University | 📅 2022 - 2026 | 📈 CGPA: 7.98/10
+Hi, I'm **Kirubanandhan V**, an Electronics and Communication Engineering graduate pursuing a career in Python backend development.
 
-**Training & Internships:**
-- 🔹 **Emertxe Information Technologies** - Embedded Systems Training/Internship (Ongoing)
-- 🔹 **TVS Training and Services Ltd.** - Embedded Systems & Industry 4.0
-- 🔹 **Cisco CCNA** - Networking Fundamentals
+I enjoy building software applications, designing relational databases, solving programming problems, and learning how backend systems work. I am developing my skills through hands-on projects and practical implementation.
 
----
-
-## 📜 Certifications
-
-✅ **Emertxe Information Technologies** – Embedded Systems Certification  
-✅ **TVS Training and Services Ltd.** – Industry 4.0 & Embedded Systems  
-✅ **Cisco CCNA** – Networking Fundamentals
+- 🐍 **Primary focus:** Python backend development
+- ⚡ **Backend framework:** FastAPI
+- 🔌 **API development:** REST API fundamentals and CRUD operations
+- 🗄️ **Database:** SQL and SQLite
+- 💻 **Programming languages:** Python, C, and C++
+- 🛠️ **Developer tools:** Git, GitHub, VS Code, and Linux fundamentals
+- 🎯 **Career objective:** Junior Python Developer / Backend Developer
+- 🤝 **Interests:** Backend engineering, database-driven applications, and collaborative development
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔧 Advanced Linux System Programming (IPC, Sockets, Multi-threading)
-- 📡 Communication Protocol Implementation (UART, SPI, I2C, Modbus)
-- 🤖 Embedded Firmware Development for IoT Devices
-- 🧠 Deepening expertise in Real-Time Operating Systems (RTOS)
-
----
-
-## 📫 Let's Connect!
+## 🛠️ Technical Skills
 
 <div align="center">
 
-📧 **Email:** [kirubanandhan016@gmail.com](mailto:kirubanandhan016@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/kirubanandhan-v](https://linkedin.com/in/kirubanandhan-v)  
-📱 **Phone:** +91 86751 18864  
-🌍 **Location:** Bengaluru, India
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python, C, C++"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Backend%20Development-166534?style=flat-square" alt="REST APIs"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"/>
+<img src="https://img.shields.io/badge/SQL-Relational%20Database-2563EB?style=flat-square" alt="SQL"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux, and VS Code"/>
+
+</div>
+
+### Core Concepts
+
+`Python Fundamentals` · `Object-Oriented Programming` · `SQL Queries` · `CRUD Operations` · `Relational Database Design` · `REST API Fundamentals` · `Version Control`
+
+---
+
+## 🚀 Featured Projects
+
+### 01. E-Commerce SQL Database
+
+<a href="https://github.com/kirubanandhan016/ecommerce-sql-project">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce SQL Project"/>
+</a>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+A relational database project focused on structuring e-commerce data and practicing SQL queries.
+
+**Key features and learning outcomes**
+- Designed customer and product tables.
+- Practiced primary keys, unique constraints, and data integrity.
+- Worked with data insertion, filtering, sorting, and retrieval.
+- Practiced relational database concepts and SQL-based analysis.
+
+**Skills:** SQL, SQLite, schema design, constraints, and data querying.
+
+### 02. Student Performance Analysis Using SQL
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+A database project concept for organizing student records and analyzing academic performance.
+
+**Planned learning outcomes**
+- Analyze average marks and subject-wise performance.
+- Practice aggregate functions, `GROUP BY`, and `ORDER BY`.
+- Explore joins, subqueries, and filtering.
+- Build meaningful queries for academic data analysis.
+
+*Repository link to be added after the project is implemented and uploaded.*
+
+### 03. Student Management System
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+A Python application concept for managing student records through a menu-driven interface.
+
+**Core functionality**
+- Add, view, search, update, and delete student records.
+- Organize program logic using functions and conditional statements.
+- Calculate average marks and identify top-performing students.
+
+**Skills:** Python fundamentals, functions, control flow, and data handling.
+
+*Add the repository link once the project is available on GitHub.*
+
+### 04. Student Management REST API
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/STATUS-In%20Progress-D97706?style=flat-square" alt="In progress"/>
+
+A backend application in development for managing student information through RESTful endpoints.
+
+**Planned features**
+- Create, read, update, and delete student records.
+- Integrate SQLite for persistent data storage.
+- Implement request validation and appropriate HTTP status codes.
+- Add exception handling and automated API tests.
+
+**Skills:** Python, FastAPI, REST APIs, SQLite, and backend fundamentals.
+
+*Repository link to be added when the project is published.*
+
+### 05. Address Book Application
+
+<img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+
+A console-based contact management application focused on organizing and maintaining contact records.
+
+**Key functionality**
+- Manage contact information.
+- Search, edit, and delete records.
+- Practice structures, functions, and file handling.
+
+### 06. Linux MiniShell
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+
+A systems-programming project focused on understanding the fundamentals of command execution in Linux.
+
+**Areas of exploration**
+- Process creation and command execution.
+- Linux system calls and process management.
+- Signals, pipes, and shell fundamentals.
+
+### 07. Embedded Systems & IoT Projects
+
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white" alt="Embedded C"/>
+<img src="https://img.shields.io/badge/ESP32--CAM-IoT-00878F?style=flat-square" alt="ESP32-CAM"/>
+
+Engineering projects reflecting my background in electronics and embedded systems.
+
+- **Underground Cable Fault Detection:** Cable fault detection and monitoring.
+- **ESP32-CAM Object Detection:** Camera-based monitoring and embedded vision.
+- **LightWeave:** A mesh-network concept for resilient communication during disasters.
+
+---
+
+## 🎓 Training & Experience
+
+### Emertxe Information Technologies
+
+**Embedded Systems Training / Internship — 6 months**
+
+- Studied Embedded C programming and microcontroller fundamentals.
+- Practiced peripheral interfacing and hardware debugging.
+- Developed practical experience with embedded applications.
+
+### TVS Training & Services, Chennai
+
+**Industry 4.0 Apprenticeship — 1 month**
+
+- Gained exposure to Industry 4.0 concepts.
+- Learned about industrial technologies and automation fundamentals.
+
+---
+
+## 📚 Currently Learning
+
+- [ ] Python and object-oriented programming
+- [ ] Data structures and algorithms
+- [ ] Advanced SQL queries, joins, and subqueries
+- [ ] FastAPI and REST API development
+- [ ] SQLAlchemy and database integration
+- [ ] Request validation and error handling
+- [ ] Automated API testing with pytest
+- [ ] Authentication and authorization
+- [ ] Git branching and collaborative workflows
+- [ ] Linux, Docker, and application deployment
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/kirubanandhan016">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirubanandhan016&show_icons=true&hide_border=true&bg_color=0d1117&title_color=86efac&text_color=cbd5e1&icon_color=60a5fa" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/kirubanandhan016">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubanandhan016&layout=compact&hide_border=true&bg_color=0d1117&title_color=86efac&text_color=cbd5e1" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubanandhan016&hide_border=true&background=0d1117&ring=86efac&fire=60a5fa&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-### 💡 *"Building the future, one line of embedded code at a time"*
+I'm interested in **entry-level Python development and backend engineering opportunities**. Feel free to connect with me to discuss projects, technology, and opportunities to learn and grow.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kirubanandhan016&color=blueviolet&style=flat-square)
+<p>
+  <a href="https://www.linkedin.com/in/kirubanandhan-v-98bb83443/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:kirubanandhan016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+  </a>
+  <a href="https://github.com/kirubanandhan016">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+  </a>
+</p>
 
-⭐️ From [kirubanandhan016](https://github.com/kirubanandhan016)
+📧 **Email:** [kirubanandhan016@gmail.com](mailto:kirubanandhan016@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/kirubanandhan-v-98bb83443](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/)
+
+🐙 **GitHub:** [github.com/kirubanandhan016](https://github.com/kirubanandhan016)
+
+<br/>
+
+*Consistency over intensity. Progress over perfection.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:172554,100:0d1117&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
