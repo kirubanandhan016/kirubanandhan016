@@ -1,93 +1,69 @@
-<div align="center">
-
-# 👋 Hi, I'm Kirubanandhan V
+# Kirubanandhan V
 
 ### Python Backend Developer | FastAPI | SQL
 
-*Building reliable APIs. Learning continuously. Solving problems.*
+I am an Electronics and Communication Engineering graduate focused on Python backend development. I build REST APIs, work with relational databases, and practice backend engineering through practical projects.
 
-<a href="https://github.com/kirubanandhan016">
-  <img src="https://img.shields.io/badge/GitHub-kirubanandhan016-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/kirubanandhan-v-98bb83443/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:kirubanandhan016@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-166534?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+I am seeking **Fresher / Entry-Level Python Backend Developer, Junior Python Developer, FastAPI Developer, and Software Engineer** opportunities.
 
-</div>
+[GitHub](https://github.com/kirubanandhan016) · [LinkedIn](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/) · [Email](mailto:kirubanandhan016@gmail.com) · [Portfolio](https://kirubanandhan016.github.io/)
 
 ---
 
-## 🧑‍💻 About Me
+## Technical Skills
 
-I'm an Electronics and Communication Engineering graduate pursuing a career in **Python Backend Development**.
+| Area | Technologies and concepts |
+|---|---|
+| Programming | Python, SQL |
+| Backend | FastAPI, REST APIs, Pydantic |
+| Databases | PostgreSQL, SQLite |
+| ORM and migrations | SQLAlchemy, Alembic |
+| Authentication | JWT, password hashing |
+| Testing | pytest, HTTPX |
+| Tools | Git, GitHub, Postman, Docker |
+| Core concepts | OOP, CRUD, relational modeling, validation, authorization |
 
-I enjoy developing APIs, working with databases, solving coding challenges, and learning software engineering fundamentals.
+## Featured Backend Projects
 
-- 🐍 Focused on Python programming and backend development
-- ⚡ Learning FastAPI and REST API design
-- 🗄️ Practicing SQL and relational database management
-- 🧠 Improving problem-solving and algorithmic thinking
-- 🔧 Using Git and GitHub for version control
-- 🎯 Aspiring Junior Python Backend Developer
+### [InventoryX — Inventory and Order Management API](https://github.com/kirubanandhan016/inventoryx-fastapi)
 
----
+FastAPI application for product and category management, inventory adjustments, order workflows, and authenticated operations.
 
-## 🛠️ Tech Stack
+**Stack:** Python, FastAPI, SQLAlchemy, Alembic, JWT, SQLite, pytest.
 
-<div align="center">
+### [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
 
-**Languages**
+REST API for authenticated users to create, retrieve, update, filter, and delete their own tasks. The repository includes an application factory, SQLAlchemy persistence, validation, and pytest tests.
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python, C and C++" />
+**Stack:** Python, FastAPI, SQLAlchemy, SQLite, JWT, pytest.
 
-**Backend Development**
+### [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+Backend application for job seekers, employers, job listings, and applications, with separate routers, relational models, and request schemas.
 
-<img src="https://img.shields.io/badge/REST%20APIs-Backend%20Development-166534?style=flat-square" alt="REST APIs" />
+**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL driver, Pydantic, JWT.
 
-**Databases**
+## Database and Problem-Solving Projects
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark" alt="SQLite and PostgreSQL" />
+- [E-commerce SQL Analytics](https://github.com/kirubanandhan016/ecommerce-sql-project) — Relational e-commerce data model and SQL analytics.
+- [Student Performance Analysis](https://github.com/kirubanandhan016/student-performance-analysis-sql) — Academic database analysis using SQLite and SQL.
+- [NeetCode Submissions](https://github.com/kirubanandhan016/neetcode-submissions) — Coding interview practice and problem-solving submissions.
 
-**Tools**
+## Currently Improving
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux and VS Code" />
+- PostgreSQL schema design and database migrations
+- API security, authorization, and transaction handling
+- Automated testing and continuous integration
+- Docker-based local development and deployment
+- Data structures and algorithms
 
-</div>
+## Professional Links
 
----
-
-## 📚 Currently Learning
-
-- Python and Object-Oriented Programming
-- Data Structures and Algorithms
-- SQL and Database Design
-- FastAPI and REST API Development
-- SQLAlchemy and Database Integration
-- API Testing and Authentication
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kirubanandhan016&show_icons=true&hide_border=true&bg_color=0d1117&title_color=86efac&text_color=cbd5e1&icon_color=60a5fa" alt="GitHub statistics" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubanandhan016&layout=compact&hide_border=true&bg_color=0d1117&title_color=86efac&text_color=cbd5e1" alt="Most used programming languages" />
-
-</div>
+- **GitHub:** [github.com/kirubanandhan016](https://github.com/kirubanandhan016)
+- **LinkedIn:** [Kirubanandhan V](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/)
+- **Email:** [kirubanandhan016@gmail.com](mailto:kirubanandhan016@gmail.com)
+- **Portfolio:** [kirubanandhan016.github.io](https://kirubanandhan016.github.io/)
 
 ---
 
-<div align="center">
-
-*“Great things are built one line of code at a time.”*
-
-**Thanks for visiting my profile! 👋**
-
-</div>
+*Open to fresher and entry-level Python backend opportunities.*
