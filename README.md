@@ -3,7 +3,8 @@
 
 Electronics and Communication Engineering graduate focused on building Python backend applications, REST APIs, and database-driven services. I am looking for **Fresher / Entry-Level Python Backend Developer, Junior Python Developer, and FastAPI Developer** opportunities in Chennai, Bengaluru, or remote roles.
 
-[Portfolio](https://kirubanandhan016.github.io/) · [LinkedIn](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/) · [Email](mailto:kirubanandhan016@gmail.com)
+🌐 **[Open my live portfolio — GitHub Pages](https://kirubanandhan016.github.io/)**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/) · [Email](mailto:kirubanandhan016@gmail.com)
 
 ## Core Skills
 
@@ -41,6 +42,6 @@ Improving PostgreSQL-backed API design, secure authorization, transaction handli
 ## Links
 
 - [GitHub profile](https://github.com/kirubanandhan016)
-- [Portfolio website](https://kirubanandhan016.github.io/)
+- **Live portfolio:** [https://kirubanandhan016.github.io/](https://kirubanandhan016.github.io/)
 - [LinkedIn profile](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/)
 - [Contact by email](mailto:kirubanandhan016@gmail.com)
