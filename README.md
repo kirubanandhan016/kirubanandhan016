@@ -17,17 +17,19 @@ Electronics and Communication Engineering graduate focused on building Python ba
 
 ## Featured Backend Projects
 
+[![InventoryX](https://github.com/kirubanandhan016/inventoryx-fastapi/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/inventoryx-fastapi/actions/workflows/tests.yml) [![TaskFlow](https://github.com/kirubanandhan016/taskflow-api/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/taskflow-api/actions/workflows/tests.yml) [![Job Portal](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml)
+
 ### [InventoryX — Inventory and Order Management API](https://github.com/kirubanandhan016/inventoryx-fastapi)
 FastAPI service for product and category management, stock adjustments, order workflows, and inventory transaction history.
-**Stack:** Python · FastAPI · SQLAlchemy · Alembic · JWT · SQLite · pytest
+**Stack:** Python · FastAPI · SQLAlchemy · Alembic · JWT · SQLite / PostgreSQL · pytest
 
 ### [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
 REST API for account registration, token-based authentication, and task CRUD with user-specific access controls.
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · JWT · pytest
+**Stack:** Python · FastAPI · SQLAlchemy · SQLite / PostgreSQL · JWT · pytest
 
 ### [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
 Backend project for job listings and applications, with separate application modules, relational models, and role-based permissions.
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Pydantic
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Pydantic · pytest
 
 ## SQL & Problem-Solving
 
@@ -37,7 +39,7 @@ Backend project for job listings and applications, with separate application mod
 
 ## Current Focus
 
-Improving PostgreSQL-backed API design, secure authorization, transaction handling, automated tests, and continuous integration. Project descriptions reflect the intended implementation; see each repository for setup instructions, tests, and current limitations.
+Current focus: PostgreSQL integration, Alembic migrations, secure authorization, transaction handling, automated API tests, and CI. The three featured repositories include PostgreSQL verification in GitHub Actions; see each README for the exact scope and limitations.
 
 ## Links
 
