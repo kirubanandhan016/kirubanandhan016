@@ -1,81 +1,84 @@
 # Kirubanandhan V
-### Python Backend Developer | FastAPI | REST APIs | PostgreSQL
+### Python Backend Developer | FastAPI | PostgreSQL | REST APIs
 
-Entry-level Python Backend Developer focused on building secure, maintainable backend services with Python, FastAPI, SQLAlchemy, and relational databases. I enjoy designing REST APIs, implementing authentication and authorization, writing automated tests, and working with database migrations.
+I build backend applications and REST APIs with **Python, FastAPI, SQLAlchemy, and PostgreSQL**. My focus is on clear API design, relational data modelling, authentication, authorization, automated testing, and maintainable code.
 
-**Open to:** Fresher / Entry-Level Python Backend Developer, Junior Python Developer, and FastAPI Developer opportunities in **Chennai, Bengaluru, and Remote**.
+**Currently seeking:** Fresher / Entry-Level Python Backend Developer, Junior Python Developer, and FastAPI Developer roles in Chennai, Bengaluru, or Remote.
 
 <p>
   <a href="https://kirubanandhan016.github.io/">Portfolio</a> ·
-  <a href="https://github.com/kirubanandhan016">GitHub</a> ·
   <a href="https://www.linkedin.com/in/kirubanandhan-v-98bb83443/">LinkedIn</a> ·
   <a href="mailto:kirubanandhan016@gmail.com">Email</a> ·
   <a href="https://kirubanandhan016.github.io/resume.pdf">Resume</a>
 </p>
 
-## Technical Skills
+## Core Skills
 
-| Area | Skills |
+| Area | Technologies |
 |---|---|
 | Programming | Python, SQL, C, C++ |
-| Backend | FastAPI, REST APIs, Pydantic, dependency injection, HTTP, OpenAPI / Swagger |
-| Databases | PostgreSQL, SQLite, relational schema design, joins, indexes, constraints, transactions |
+| Backend | FastAPI, REST APIs, Pydantic, OpenAPI |
+| Database | PostgreSQL, SQLite, relational modelling, joins, indexes |
 | ORM & migrations | SQLAlchemy 2.0, Alembic |
-| Security | JWT, HS256, password hashing, authentication, authorization |
-| Testing & tools | pytest, API testing, Git, GitHub, GitHub Actions, Linux, Docker |
+| Security | JWT, password hashing, authentication, authorization |
+| Quality & tools | pytest, Git, GitHub, GitHub Actions, Linux, Docker |
 
 ## Featured Backend Projects
 
-### 1. [InventoryX — Inventory & Order Management API](https://github.com/kirubanandhan016/inventoryx-fastapi)
-A FastAPI backend for product and category management, stock adjustments, order placement and cancellation, and inventory transaction history.
+### [InventoryX — Inventory & Order Management API](https://github.com/kirubanandhan016/inventoryx-fastapi)
+A FastAPI service for product and category management, stock adjustments, order workflows, and inventory transaction history.
 
-- SQLAlchemy ORM models and Alembic schema migrations.
-- JWT-based authentication and password hashing.
-- Request/response validation with Pydantic.
-- Automated API tests and PostgreSQL migration verification in CI.
+- SQLAlchemy models and versioned Alembic migrations.
+- JWT authentication and password hashing.
+- Inventory and order business logic, including cancellation safeguards.
+- Pytest suite and PostgreSQL migration verification in CI.
 
-**Stack:** Python · FastAPI · SQLAlchemy · Alembic · JWT · SQLite · PostgreSQL · pytest
+**Stack:** Python · FastAPI · SQLAlchemy · Alembic · JWT · PostgreSQL · pytest
 
-### 2. [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
-A recruitment backend covering job listings, job-seeker applications, employer workflows, and ownership-based authorization.
+### [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
+A recruitment backend for job listings, job-seeker applications, employer workflows, and ownership-based access control.
 
-- Role-based permissions for job seekers and employers.
-- Job search and application lifecycle endpoints.
-- PostgreSQL persistence and Pydantic validation.
-- Automated security tests and PostgreSQL CI smoke checks.
+- Job-seeker registration and token-based login.
+- Employer-only listing management and application review.
+- Search filters, request validation, and PostgreSQL persistence.
+- Automated security tests and GitHub Actions checks.
 
 **Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Pydantic · JWT · pytest
 
-### 3. [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
-A task management REST API with registration, token authentication, and task CRUD operations.
+### [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
+A task-management REST API demonstrating authentication and per-user resource isolation.
 
-- Protected endpoints and per-user task isolation.
-- SQLAlchemy database integration.
-- Validation and structured HTTP errors.
+- Registration, login, and protected task CRUD endpoints.
+- SQLAlchemy persistence with SQLite as the local default.
+- Pydantic validation and structured HTTP errors.
 - Automated tests for authentication, authorization, and task workflows.
 
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · PostgreSQL · JWT · pytest
+**Stack:** Python · FastAPI · SQLAlchemy · SQLite · JWT · Pydantic · pytest
 
-## SQL & Problem-Solving Projects
+## SQL & Problem-Solving
 
-- [E-commerce SQL Project](https://github.com/kirubanandhan016/ecommerce-sql-project) — relational database design, constraints, joins, CTEs, window functions, and analytical queries.
-- [Student Performance Analysis](https://github.com/kirubanandhan016/student-performance-analysis-sql) — SQL-based reporting and database analysis.
+- [E-commerce SQL Project](https://github.com/kirubanandhan016/ecommerce-sql-project) — relational database design, joins, CTEs, window functions, and analytical queries.
+- [Student Performance Analysis](https://github.com/kirubanandhan016/student-performance-analysis-sql) — SQL reporting and data analysis.
 - [NeetCode Submissions](https://github.com/kirubanandhan016/neetcode-submissions) — data structures and algorithm practice.
+
+## Current Project
+
+**LeadPilot** — currently in development. Further implementation details will be added when the project is ready to be presented.
 
 ## Education
 
-**Bachelor of Engineering — Electronics and Communication Engineering**  
+**B.E. — Electronics and Communication Engineering**  
 IFET College of Engineering, Villupuram · Anna University · 2022–2026  
 CGPA: 7.14 / 10
 
-## Current Learning & Engineering Focus
+## Engineering Focus
 
-- PostgreSQL schema design, constraints, indexing, and query optimization.
-- SQLAlchemy 2.0 patterns and Alembic migrations.
-- Secure API authentication and resource-level authorization.
-- Automated testing with pytest and CI workflows.
-- Clean project structure, documentation, and maintainable backend code.
+- Designing reliable REST APIs and clear request/response contracts.
+- Building relational schemas and managing database changes with migrations.
+- Implementing authentication and resource-level authorization.
+- Writing meaningful automated tests and maintaining CI workflows.
+- Improving code quality, documentation, and debugging skills.
 
 ---
 
-I am actively building practical backend projects and improving my engineering fundamentals. Please explore the repositories above for implementation details, setup instructions, and tests.
+I welcome entry-level opportunities where I can contribute to backend development, learn from code reviews, and build dependable software. Explore the repositories above for source code, setup instructions, and tests.
