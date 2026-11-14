@@ -7,6 +7,7 @@ I build backend applications and REST APIs with **Python, FastAPI, SQLAlchemy, a
 **Seeking:** Fresher / Entry-Level Python Backend Developer, Junior Python Developer, and FastAPI Developer opportunities in Chennai, Bengaluru, or Remote.
 
 **Portfolio:** [kirubanandhan016.github.io](https://kirubanandhan016.github.io/)  
+**Resume:** [View PDF](https://kirubanandhan016.github.io/resume.pdf)  
 **LinkedIn:** [Kirubanandhan V](https://www.linkedin.com/in/kirubanandhan-v-98bb83443/)  
 **Email:** [kirubanandhan016@gmail.com](mailto:kirubanandhan016@gmail.com)
 
