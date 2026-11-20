@@ -31,14 +31,15 @@ I build backend applications and REST APIs using **Python, FastAPI, SQLAlchemy, 
 | Programming | Python, SQL, C, C++ |
 | Backend development | FastAPI, REST API design, Pydantic, OpenAPI |
 | Database | PostgreSQL configuration and CI checks, SQLite, relational modelling, joins, indexes |
-| ORM & migrations | SQLAlchemy ORM, Alembic migrations in InventoryX |
+| ORM & migrations | SQLAlchemy ORM, Alembic migrations in InventoryX, Job Portal API, and TaskFlow API |
 | Authentication & authorization | JWT bearer authentication, password hashing, role checks, resource ownership |
 | Testing & automation | pytest, API tests, GitHub Actions |
+| Containers & CI/CD | Docker, Docker Compose, GitHub Actions, PostgreSQL-backed CI checks |
 | Developer tools | Git, GitHub, Linux, VS Code |
 
 ### Currently strengthening
 
-Docker and container workflows, deeper PostgreSQL integration testing, database migration workflows across projects, and data structures and algorithms.
+Deeper PostgreSQL concurrency and integration testing, production deployment and observability, and data structures and algorithms.
 
 ---
 
@@ -68,7 +69,10 @@ A recruitment backend for job seekers, employer-managed job listings, and applic
 - PostgreSQL persistence with SQLAlchemy.
 - Automated security tests and GitHub Actions PostgreSQL schema checks.
 
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Pydantic · JWT · Argon2 · pytest
+- Versioned Alembic schema migrations, Docker Compose with PostgreSQL, and Docker image build verification in GitHub Actions.
+- Pytest security and workflow tests, including PostgreSQL-backed CI checks.
+
+**Stack:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Docker · Pydantic · JWT · Argon2 · pytest
 
 [![Job Portal CI](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml)
 
@@ -81,7 +85,10 @@ A task-management REST API demonstrating authentication and per-user resource is
 - Pydantic validation and structured HTTP errors.
 - Automated tests and GitHub Actions checks, including a PostgreSQL schema/startup check.
 
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · PostgreSQL configuration · JWT · Pydantic · pytest
+- Versioned Alembic migrations and Docker Compose PostgreSQL setup.
+- PostgreSQL-backed test execution and migration verification in GitHub Actions.
+
+**Stack:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · SQLite · Docker · JWT · Pydantic · pytest
 
 [![TaskFlow CI](https://github.com/kirubanandhan016/taskflow-api/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/taskflow-api/actions/workflows/tests.yml)
 
@@ -104,8 +111,8 @@ A task-management REST API demonstrating authentication and per-user resource is
 ## Current Learning Focus
 
 - Improving PostgreSQL integration and concurrency testing.
-- Applying Alembic migrations consistently across API projects.
-- Learning Docker-based development and deployment workflows.
+- Practising production deployment, observability, and secure configuration.
+- Strengthening Python, SQL, OOP, and data structures and algorithms.
 - Practising Python, SQL, OOP, and data structures and algorithms.
 - Strengthening API security, observability, and production readiness.
 
