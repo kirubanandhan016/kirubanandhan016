@@ -70,7 +70,6 @@ A recruitment backend for job seekers, employer-managed job listings, and applic
 - Automated security tests and GitHub Actions PostgreSQL schema checks.
 
 - Versioned Alembic schema migrations, Docker Compose with PostgreSQL, and Docker image build verification in GitHub Actions.
-- Pytest security and workflow tests, including PostgreSQL-backed CI checks.
 
 **Stack:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Docker · Pydantic · JWT · Argon2 · pytest
 
@@ -110,11 +109,9 @@ A task-management REST API demonstrating authentication and per-user resource is
 
 ## Current Learning Focus
 
-- Improving PostgreSQL integration and concurrency testing.
-- Practising production deployment, observability, and secure configuration.
-- Strengthening Python, SQL, OOP, and data structures and algorithms.
-- Practising Python, SQL, OOP, and data structures and algorithms.
-- Strengthening API security, observability, and production readiness.
+- PostgreSQL integration, transaction safety, and concurrency testing.
+- Production deployment, observability, and secure configuration.
+- Python, SQL, OOP, and data structures and algorithms.
 
 ## Education
 
