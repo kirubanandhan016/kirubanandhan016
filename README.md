@@ -59,7 +59,19 @@ A layered FastAPI backend for product and category management, stock adjustments
 
 [![InventoryX CI](https://github.com/kirubanandhan016/inventoryx-fastapi/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/inventoryx-fastapi/actions/workflows/tests.yml)
 
-### 2. [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
+### 2. [PeoplePulse — Employee Management System](https://github.com/kirubanandhan016/employee-management-system)
+
+A full-stack employee management application with separate Admin, HR Manager, and Employee permissions.
+
+- FastAPI backend with role-based access control and JWT authentication.
+- React frontend with employee, department, attendance, leave, and salary workflows.
+- PostgreSQL persistence with SQLAlchemy 2.0 and Alembic migrations.
+- Argon2id password hashing and server-side salary calculations.
+- Backend integration tests and a frontend production build workflow.
+
+**Stack:** Python · FastAPI · React · PostgreSQL · SQLAlchemy · Alembic · JWT · Argon2id · pytest
+
+### 3. [Job Portal API — Recruitment Management](https://github.com/kirubanandhan016/job-portal-api)
 
 A recruitment backend for job seekers, employer-managed job listings, and application workflows.
 
@@ -70,13 +82,12 @@ A recruitment backend for job seekers, employer-managed job listings, and applic
 - Automated security tests and GitHub Actions PostgreSQL schema checks.
 
 - Versioned Alembic schema migrations, Docker Compose with PostgreSQL, and Docker image build verification in GitHub Actions.
-- Pytest security and workflow tests, including PostgreSQL-backed CI checks.
 
 **Stack:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Docker · Pydantic · JWT · Argon2 · pytest
 
 [![Job Portal CI](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml/badge.svg)](https://github.com/kirubanandhan016/job-portal-api/actions/workflows/tests.yml)
 
-### 3. [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
+### 4. [TaskFlow API — User-Scoped Task Management](https://github.com/kirubanandhan016/taskflow-api)
 
 A task-management REST API demonstrating authentication and per-user resource isolation.
 
@@ -110,11 +121,9 @@ A task-management REST API demonstrating authentication and per-user resource is
 
 ## Current Learning Focus
 
-- Improving PostgreSQL integration and concurrency testing.
-- Practising production deployment, observability, and secure configuration.
-- Strengthening Python, SQL, OOP, and data structures and algorithms.
-- Practising Python, SQL, OOP, and data structures and algorithms.
-- Strengthening API security, observability, and production readiness.
+- PostgreSQL integration, transaction safety, and concurrency testing.
+- Production deployment, observability, and secure configuration.
+- Python, SQL, OOP, and data structures and algorithms.
 
 ## Education
 
